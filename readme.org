@@ -1,0 +1,3 @@
+* Hub test repo
+
+This repo is for testing the hub CLI to github.
